@@ -1,0 +1,11 @@
+div {
+      border: 5px solid red;
+      background-color: pink;
+      padding: .5rem;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 8px 8px 5px #444;
+      margin: auto;
+      justify-content: center;
+
+}
